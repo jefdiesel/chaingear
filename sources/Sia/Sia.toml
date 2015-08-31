@@ -74,6 +74,14 @@ icon = "forum.png"
 tags = ["News"]
 type = "forum"
 
+
+[[links]]
+name = "Slack"
+url = "http://slackin.siacoin.com/"
+icon = "slack.png"
+tags = ["News"]
+type = "slack"
+
 [[links]]
 name = "Facebook"
 url = "https://www.facebook.com/nebulouslabs"
